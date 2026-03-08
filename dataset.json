@@ -1,0 +1,14 @@
+{
+  "niches": [
+    "AI tools",
+    "crypto analytics",
+    "digital products",
+    "prompt engineering"
+  ],
+  "sources": [
+    "google_trends",
+    "reddit",
+    "product_hunt"
+  ],
+  "updated": "2026-03-08"
+}
